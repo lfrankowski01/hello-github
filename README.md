@@ -1,1 +1,2 @@
-# hello-github
+# Hi GitHub!
+This is a practice repository.
